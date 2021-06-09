@@ -3,7 +3,7 @@ html, body {
   padding: 0px;
   /*margin et padding à 0 pour que le contenu soit collé au bord*/
 	height : 100%;
-  min-height: 100vh;
+  min-height: 100%;
   /*forcer une taille minimum qui correspond à la hauteur de l'écran de l'utilisateur (viewport height)*/
 }
 
